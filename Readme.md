@@ -1,4 +1,4 @@
-# DESAFÍO LATAM – Curso Fullstack JavaScript G92
+
 
 ## Módulo 6 – Node.js
 
